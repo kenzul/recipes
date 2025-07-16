@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #000;
+    color: #ced7ba;
+}
+
+body {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+a,
+a:visited {
+    color: inherit;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+li {
+    margin-top: 1rem;
+}
